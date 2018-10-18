@@ -1,0 +1,7 @@
+[package]
+name = "count_files"
+version = "0.1.0"
+authors = ["kingdido999 <info@desmonding.me>"]
+edition = "2018"
+
+[dependencies]
